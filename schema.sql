@@ -10,3 +10,7 @@ CREATE TABLE animals (
     neutered boolean,
     weight_kg float
 );
+
+/* Update the animals table */
+
+ALTER TABLE animals ADD species varchar(200);

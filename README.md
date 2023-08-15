@@ -45,9 +45,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **The `schema.sql` contain the query to create the `animal` table**
+- **The `schema.sql` contain the query to create the `vet_clinic` database and the `animal` table**
 - **The `data.sql` contain the queries to insert the data**
-- **The `queries.sql` contains some query examples**
+- **The `queries.sql` contains some query examples, transactions and specific queries to answer some questions**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,7 +125,6 @@ This project can't be deployed for any who aren't the owner.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Query and update animals table]**
 - [ ] **Create animals' owners, clinic employees and visits tables**
 - [ ] **[Query multiple tables]**
 - [ ] **[Add join table for visits]**
