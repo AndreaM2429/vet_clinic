@@ -29,6 +29,8 @@
 **vet_clinic** is a project that uses a Relational Database to create the data structure for a vet clinic. There are tables with the information of:
 
 - Animals
+- Owners
+- Species
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,7 +47,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **The `schema.sql` contain the query to create the `vet_clinic` database and the `animal` table**
+- **The `schema.sql` contain the query to create the `vet_clinic` database and the tables**
 - **The `data.sql` contain the queries to insert the data**
 - **The `queries.sql` contains some query examples, transactions and specific queries to answer some questions**
 
@@ -125,7 +127,7 @@ This project can't be deployed for any who aren't the owner.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Create animals' owners, clinic employees and visits tables**
+- [ ] **Create clinic employees and visits tables**
 - [ ] **[Query multiple tables]**
 - [ ] **[Add join table for visits]**
 - [ ] **Database performance audit**
