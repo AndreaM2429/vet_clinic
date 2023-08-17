@@ -31,6 +31,9 @@
 - Animals
 - Owners
 - Species
+- Vets
+- Visits (Join table between vets and animals)
+- Specializations (Join table between vets and species)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -127,9 +130,6 @@ This project can't be deployed for any who aren't the owner.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Create clinic employees and visits tables**
-- [ ] **[Query multiple tables]**
-- [ ] **[Add join table for visits]**
 - [ ] **Database performance audit**
 - [ ] **Add database schema diagram**
 
